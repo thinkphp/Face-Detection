@@ -2,7 +2,12 @@
 
 Face Detection using OpenCV and Deep Learning
 
-### pip install opencv-python
+### Installation
+
+You can install OpenCV using pip:
+```
+pip install opencv-python
+```
 
 [![IMAGE ALT TEXT](https://github.com/thinkphp/Face-Detection/blob/main/triatlon.png)](https://www.youtube.com/watch?v=byylLXtRdQo "cv")
 
