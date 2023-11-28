@@ -1,5 +1,8 @@
 # Face-Detection
+
 Face Detection using OpenCV and Deep Learning
+
+### pip install opencv-python
 
 ![Computer Vision](https://github.com/thinkphp/Face-Detection/blob/main/triatlon.png)
 
