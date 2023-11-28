@@ -9,7 +9,7 @@ Face Detection using OpenCV and Deep Learning
 
 ![Computer Vision](https://github.com/thinkphp/Face-Detection/blob/main/facedetection.png)
 
-https://www.youtube.com/watch?v=byylLXtRdQo
+[![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=byylLXtRdQo)](https://www.youtube.com/watch?v=byylLXtRdQo)
 
 #### References
 
